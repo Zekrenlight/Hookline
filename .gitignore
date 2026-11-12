@@ -1,0 +1,7 @@
+/target
+**/*.hnmod
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
