@@ -6,7 +6,7 @@ Hookline is a Horizon client helper for AFK fishing on Minecraft Java 26.3. It r
 
 Use only on servers where AFK fishing/automation is allowed.
 
-This is an independent implementation. Courtesy credit: the idea of a focused AFK fishing helper was inspired by Auto AFK Fishing by TjiftyYT.
+This is an independent implementation of autofishing.
 
 ## Features
 
@@ -24,7 +24,10 @@ This is an independent implementation. Courtesy credit: the idea of a focused AF
 
 ## Screenshots
 
-Screenshots coming soon.
+<img width="1381" height="959" alt="image" src="https://github.com/user-attachments/assets/2f0dd17d-aae5-48d3-9899-e9a07fe06620" />
+<img width="1381" height="959" alt="image" src="https://github.com/user-attachments/assets/0bd11d12-4ce6-44bc-bcf7-b7e7f2268d8e" />
+<img width="1381" height="959" alt="image" src="https://github.com/user-attachments/assets/aa82d264-6917-449a-b1fc-1bd6ea71f41b" />
+<img width="1381" height="959" alt="image" src="https://github.com/user-attachments/assets/88e8c7d7-e675-436d-9970-95a92ae4a859" />
 
 ## Install
 
