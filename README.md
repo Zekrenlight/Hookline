@@ -2,7 +2,8 @@
 
 Version 1.0.0.
 
-Hookline is a Horizon client helper for AFK fishing on Minecraft Java 26.3. It reels when **your** bobber splashes, recasts, and gives you a keep/toss list, enchant rules, optional meals, and a deposit pass into a chest you let it open.
+Hookline is written entirely in Rust for Horizon, a Rust client for Minecraft: Java Edition 26.3. No Java or Fabric required.
+It reels when **your** bobber splashes, recasts, and gives you a keep/toss list, enchant rules, optional meals, and a deposit pass into a chest you let it open.
 
 Use only on servers where AFK fishing/automation is allowed.
 
