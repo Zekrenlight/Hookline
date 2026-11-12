@@ -2,10 +2,10 @@
 
 ## 1.0.0 — 2026-11-12
 
-First public Hookline release for Horizon 26.3 (Minecraft Java).
+First public Hookline release for Horizon 26.3 (Minecraft: Java Edition).
 
 - Reels your own bobber and recasts, with optional slower “pace variance” timing
-- Keep/Toss catch list in our order (book, rod, bow, then the four fish, then the rest)
+- Keep/Toss catch list in a curated order (book, rod, bow, then the four fish, then the rest)
 - Enchant voting for books, rods, and bows (Mending first, then closest to max, ties keep)
 - Main-inventory tosses over ordinary client packets
 - Deposits only kept catch into a chest or barrel Hookline opened itself
