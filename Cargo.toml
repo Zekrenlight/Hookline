@@ -1,0 +1,11 @@
+[package]
+name = "hookline-logic"
+version = "1.0.0"
+edition = "2021"
+license-file = "LICENSE"
+publish = false
+description = "Pure rules for the Hookline Horizon fishing helper (no game runtime)."
+
+[lib]
+name = "hookline_logic"
+path = "mixins/hookline/logic.rs"
